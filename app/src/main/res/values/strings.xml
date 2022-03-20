@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Daftar Belanja</string>
+    <string name="img_splash">img_splash</string>
+    <string name="iv_login">iv_login</string>
+    <string name="btn_login">Login</string>
+    <string name="tv_insert">Masukkan Daftar Belanja Anda</string>
+    <string name="ed_nama_barang">Nama Barang</string>
+    <string name="ed_jumlah_barang">Jumlah Barang</string>
+    <string name="btn_reset">Hapus</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_show">Lihat Data</string>
+    <string name="btn_logout">Logout</string>
+</resources>

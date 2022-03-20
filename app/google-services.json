@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1012991804978",
+    "project_id": "tugas-pts",
+    "storage_bucket": "tugas-pts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012991804978:android:3c45eee94f1267cfd95e2b",
+        "android_client_info": {
+          "package_name": "com.shinta.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012991804978-khsmkrjh5emh4ppkc5qv619tknulr5ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shinta.daftarbelanja",
+            "certificate_hash": "bd7dc4e09bfe9f190496024e5c206f02f656aa04"
+          }
+        },
+        {
+          "client_id": "1012991804978-pmf1eqeuc9hc3dtkq38e4au0os1gaqpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHujTAxwG4SgJsdhn9zLUL8UcHTsrOlGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012991804978-pmf1eqeuc9hc3dtkq38e4au0os1gaqpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
